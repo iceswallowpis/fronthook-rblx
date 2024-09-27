@@ -1,6 +1,17 @@
-universal aimbot + esp for roblox (works only on games that use default roblox characters) hold e to use aimbot\
+universal aimbot + esp for roblox (works only on games that use default roblox characters) 
 fronthook discord server: https://discord.gg/r8tk45Yprv
-
+*** Features: ***
+     Aimbot:
+- Fov
+- Team Check
+- Visibility check
+- Custom Keybind
+- Multiple hitboxes
+     Esp:
+  - Box Esp
+  - Name Esp
+  - Team Check
+  - Highlight (chams)
 ```VERSION 2 (LATEST)```
 ***loadstring*** ```: loadstring(game:HttpGet("https://raw.githubusercontent.com/iceswallowpis/fronthook-rblx/refs/heads/main/fronthook%20v2%20obf.lua"))()
 v2 preview:
