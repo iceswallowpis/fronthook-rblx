@@ -13,7 +13,7 @@ fronthook discord server: https://discord.gg/r8tk45Yprv
   - Team Check
   - Highlight (chams)
 ```VERSION 2 (LATEST)```
-***loadstring*** ```: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/iceswallowpis/fronthook-rblx/refs/heads/main/fronthook%20v2%20obf.lua"))()```
+***loadstring*** : ``` loadstring(game:HttpGet("https://raw.githubusercontent.com/iceswallowpis/fronthook-rblx/refs/heads/main/fronthook%20v2%20obf.lua"))() ```
 if the loadstring dosent work then you need to copy and paste the lua code to your executor
 v2 preview:
 ![image](https://github.com/user-attachments/assets/e4196ce2-b845-45de-9f46-10509b0b3e46)
